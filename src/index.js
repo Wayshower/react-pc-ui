@@ -1,2 +1,10 @@
+export { default as Breadcrumb } from './component/breadcrumb';
 export { default as Button } from './component/button';
+export { default as Countdown } from './component/countdown';
+export { default as Message } from './component/message';
+export { default as Modal } from './component/modal';
+export { default as Pagination } from './component/pagination';
+export { default as Slider } from './component/slider';
+export { default as Steps } from './component/steps';
 export { default as Table } from './component/table';
+export { default as Tabs } from './component/tabs';

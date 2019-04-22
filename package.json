@@ -20,6 +20,7 @@
   "bugs": {
     "url": "https://github.com/lianpf/react-pc-ui/issues"
   },
+  "files":["index.js", "lib", "package.json", "readme.md"],
   "homepage": "https://github.com/lianpf/react-pc-ui",
   "keywords": [
     "React",
