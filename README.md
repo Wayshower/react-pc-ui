@@ -7,9 +7,8 @@ Pagination, updated with two development schedules per week, thank you for your 
 button、modal、table、message、breadcrumb、tabs、slider、steps、countdown、
 pagination, 以每周两个的开发进度更新, 谢谢大家支持
 
-
 ### React PC componenet library
-#### v1.1.0
+#### 组件库
 1. Button
 2. Modal
 3. Table
@@ -29,9 +28,6 @@ v1.0.5 | (1)10 个基础组件雏形  <br /> (2)线上文档  <br /> (3)组件�
 v1.0.6 | (1)build:component 多入口自动化配置  <br /> (2)css 样式分离 | 架构
 v1.0.7 | (1)table component style重构  <br /> (2) steps component style重构
 v1.0.9 | (1)pagination 增加 fields  <br /> (2) slider 增加 fields
-
-#### now v1.0.9
-Button、Modal、Table、Message、Breadcrumb、Tabs、Slider、Step、Countdown、Pagination
 
 ### npm包
 ### Example
